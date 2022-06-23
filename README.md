@@ -1,7 +1,7 @@
 # Exchange_django-ajax_app
 
 Modern verion of exchange_django_app.</br>
-It works with simple POST ajax request.
+It works with POST ajax request.
 ```
 $.ajax({
     type: 'POST',
